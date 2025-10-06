@@ -8,7 +8,7 @@ Das Auto-Alert-Pi System ist ein asynchrones, hochperformantes System zur Echtze
 - **Reaktionszeit:** ≤ 4 Sekunden
 - **Vollständigkeit:** 100% aller neuen Inserate
 - **Verfügbarkeit:** 24/7 Betrieb
-- **Skalierbarkeit:** Raspberry Pi 4 → Pi 5 Migration
+- **Skalierbarkeit:** Raspberry Pi 4 mit optionaler Systemerweiterung
 
 ## 🔧 Systemkomponenten
 
@@ -115,15 +115,16 @@ src/
 
 ## 🚀 Deployment-Strategie
 
-### Entwicklung (Raspberry Pi 4)
+### Entwicklung und Betrieb (Raspberry Pi 4)
 - Lokale Entwicklung und Tests
+- Produktiver Betrieb des Systems
 - SQLite-Datenbank
 - Direkte API-Zugriffe
 
-### Produktion (Raspberry Pi 5)
-- Optimierte Performance
-- NVMe-SSD für schnelle DB-Zugriffe
-- Hailo-8L AI-Beschleuniger für erweiterte Features
+### Systemerweiterung (Optional)
+- Zusätzliche Hardware zur Infrastruktur-Erweiterung
+- Erhöhte Ausfallsicherheit und Redundanz
+- Kapazitätserweiterung für zukünftige Projekte
 
 ## 📈 Performance-Ziele
 

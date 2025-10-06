@@ -49,4 +49,22 @@
 **Git-Commit:** 905ef34 - feat(core): implement system architecture and core modules
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 16:45
+
+### 08.10.2025 - Hardware-Spezifikationen korrigiert
+**Status:** ✅ Abgeschlossen  
+**Dauer:** 0h 15min  
+**Entwickler:** Andreas Eirich
+
+**Durchgeführte Arbeiten:**
+- Raspberry Pi 4 als aktives System definiert
+- Raspberry Pi 5 als Systemerweiterung umformuliert
+- Kostenstruktur sachlich und wahrheitsgemäß angepasst
+- Hardware-Architektur in allen Dokumentationen korrigiert
+
+**Technische Details:**
+- Klarstellung der Infrastruktur-Architektur
+- Wahrheitsgemäße Kostenaufstellung erstellt
+- Sachliche Formulierungen in allen Dokumenten
+
+---
+**Letzte Aktualisierung:** 08.10.2025 17:00
