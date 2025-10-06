@@ -67,4 +67,22 @@
 - Sachliche Formulierungen in allen Dokumenten
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 17:00
+
+### 08.10.2025 - Systemerweiterung als notwendig definiert
+**Status:** ✅ Abgeschlossen  
+**Dauer:** 0h 20min  
+**Entwickler:** Andreas Eirich
+
+**Durchgeführte Arbeiten:**
+- Systemerweiterung von "optional" zu "notwendig" geändert
+- Alle Betriebskosten und Stromkosten entfernt
+- Klarstellung der notwendigen Systemerweiterung
+- Raspberry Pi 5 als permanente Systemerweiterung definiert
+
+**Technische Details:**
+- Eindeutige Darstellung ohne missverständliche Kostenangaben
+- Notwendigkeit der Systemerweiterung für Projektrealisierung betont
+- Kostenstruktur auf einmalige Kosten beschränkt
+
+---
+**Letzte Aktualisierung:** 08.10.2025 17:20

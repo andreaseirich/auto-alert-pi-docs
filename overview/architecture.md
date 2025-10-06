@@ -8,7 +8,7 @@ Das Auto-Alert-Pi System ist ein asynchrones, hochperformantes System zur Echtze
 - **Reaktionszeit:** ≤ 4 Sekunden
 - **Vollständigkeit:** 100% aller neuen Inserate
 - **Verfügbarkeit:** 24/7 Betrieb
-- **Skalierbarkeit:** Raspberry Pi 4 mit optionaler Systemerweiterung
+- **Skalierbarkeit:** Raspberry Pi 4 mit notwendiger Systemerweiterung
 
 ## 🔧 Systemkomponenten
 
@@ -121,10 +121,10 @@ src/
 - SQLite-Datenbank
 - Direkte API-Zugriffe
 
-### Systemerweiterung (Optional)
-- Zusätzliche Hardware zur Infrastruktur-Erweiterung
-- Erhöhte Ausfallsicherheit und Redundanz
-- Kapazitätserweiterung für zukünftige Projekte
+### Systemerweiterung (Notwendig)
+- Zur Realisierung des Projekts wurde eine Systemerweiterung der bestehenden Serverinfrastruktur erforderlich
+- Der Raspberry Pi 5 ist als permanente Systemerweiterung in die bestehende Infrastruktur integriert
+- Diese Erweiterung stellt sicher, dass das Gesamtsystem zuverlässig, performant und erweiterbar bleibt
 
 ## 📈 Performance-Ziele
 
