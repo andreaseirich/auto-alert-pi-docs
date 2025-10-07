@@ -4,6 +4,7 @@
 
 **Projekt:** Auto-Alert-Pi - Autonomes Fahrzeuginserat-Erkennungssystem  
 **Entwickler:** Andreas Eirich  
+**Projektstart:** 06.10.2025, 23:00 Uhr  
 **Projektzeitraum:** 10-14 Tage (1-2 Wochen)  
 **Status:** In Entwicklung  
 
@@ -23,27 +24,30 @@
 
 ## 📅 Realistische Entwicklungsphasen
 
-### Phase 1 – Grundlagen & Architektur (Tag 1-3)
+### Phase 1 – Grundlagen & Architektur (06.-08.10.2025)
 **Status:** ✅ Abgeschlossen  
-**Dauer:** 2h 05min (erste Sitzung)
+**Dauer:** 4h 50min (2 Arbeitssitzungen)
 
 **Erreichte Ziele:**
-- Vollständige Projektstruktur in 3 Repositories
-- Systemarchitektur dokumentiert
-- Python-Projektstruktur implementiert
-- Database-Models und Konfigurationssystem erstellt
-- Git-Workflow und Dokumentationssystem eingerichtet
+- ✅ Erste Systemeinstellungen und Projektinitialisierung (06.10.2025, 23:00-01:30)
+- ✅ Projektstruktur und Dokumentationssystem (07.10.2025, 12:00-14:20)
+- ✅ Vollständige Projektstruktur in 3 Repositories
+- ✅ Systemarchitektur dokumentiert
+- ✅ Python-Projektstruktur implementiert
+- ✅ Database-Models und Konfigurationssystem erstellt
+- ✅ Git-Workflow und Dokumentationssystem eingerichtet
 
 **Nächste Schritte:**
 - Willhaben-API-Analyse
 - Erste Testmodule entwickeln
 - Mock-Parser implementieren
 
-### Phase 2 – Implementierung & Datenfluss (Tag 4-7)
+### Phase 2 – Implementierung & Datenfluss (09.-12.10.2025)
 **Status:** 🔄 Geplant  
-**Zeitraum:** Im Verlauf der ersten Woche
+**Zeitraum:** Diese Woche
 
 **Geplante Ziele:**
+- Willhaben-API-Struktur analysieren
 - Polling-Engine für willhaben.at entwickeln
 - HTML-Parser und Inserat-Extraktion implementieren
 - Telegram-Bot Integration
@@ -55,9 +59,9 @@
 - Erste Telegram-Benachrichtigungen
 - Lokale Tests erfolgreich
 
-### Phase 3 – Optimierung & Stabilisierung (Tag 8-10)
+### Phase 3 – Optimierung & Stabilisierung (13.-15.10.2025)
 **Status:** 🔄 Geplant  
-**Zeitraum:** Zweite Woche
+**Zeitraum:** Nächste Woche
 
 **Geplante Ziele:**
 - Performance-Optimierung (≤4s Reaktionszeit)
@@ -70,7 +74,7 @@
 - Kontinuierlicher Betrieb validiert
 - Produktionsreife Konfiguration
 
-### Phase 4 – Dokumentation & Abnahme (Tag 11-14)
+### Phase 4 – Dokumentation & Abnahme (16.-19.10.2025)
 **Status:** 🔄 Geplant  
 **Zeitraum:** Projektabschluss
 
@@ -121,8 +125,9 @@
 ## 📊 Zeitaufwand
 
 ### Bisheriger Aufwand
-- **Tag 1:** 2h 05min (Projektstruktur und Architektur)
-- **Gesamt bisher:** 2h 05min
+- **06.10.2025:** 2h 30min (Erste Systemeinstellungen, 23:00-01:30)
+- **07.10.2025:** 2h 20min (Projektstruktur und Architektur, 12:00-14:20)
+- **Gesamt bisher:** 4h 50min
 
 ### Geplanter Aufwand
 - **Phase 2:** 12-16 Stunden (3-4 Tage)
