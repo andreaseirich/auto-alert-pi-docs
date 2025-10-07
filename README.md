@@ -36,4 +36,4 @@ Diese Dokumentation wird parallel mit folgenden Repos gepflegt:
 Alle technischen Fortschritte werden in `logs/progress.md` dokumentiert.
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 14:45
+**Letzte Aktualisierung:** 2025-10-07 13:45:24 (Europe/Berlin)
