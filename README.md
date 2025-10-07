@@ -1,6 +1,18 @@
 
 # Auto-Alert-Pi – Technical Documentation
 
+> *"Falsche Lippen sind dem HERRN ein Gräuel; die aber treu handeln, gefallen ihm." (Sprüche 12,22)*
+
+## 📂 Schnellzugriff
+
+- 🏠 **Projektübersicht:** [README.md](README.md)
+- 🧩 **Systemarchitektur:** [overview/architecture.md](overview/architecture.md)
+- 📈 **Fortschritt & Updates:** [logs/progress.md](logs/progress.md)
+- 🕓 **Projektzeitplan:** [logs/timeline.md](logs/timeline.md)
+- 📞 **Support & Kontakt:** [Support & Wartung](#-support--wartung)
+
+---
+
 ## 🔧 Entwickler-Dokumentation
 
 Professionelle technische Dokumentation für das Auto-Alert-Pi System. Diese Dokumentation dient als Portfolio-Projekt und enthält alle technischen Details, Architektur-Übersichten und Lessons Learned.
