@@ -48,7 +48,11 @@
 - Asynchrone Architektur Code-Grundgerüst
 - Logging-System Code-Grundgerüst
 
-**Git-Commit:** 905ef34 - feat(core): implement system architecture and core modules  
+**Git-Commits:**
+- `auto-alert-pi`: 905ef34 - feat(core): implement system architecture and core modules
+- `auto-alert-pi-docs`: a68ab44 - docs(progress): update technical progress log
+- `auto-alert-pi-client-doc`: 9a77823 - docs(client): update customer progress log
+
 **Hinweis:** Teilweise mit KI-Unterstützung (Cursor) erstellt und manuell geprüft.
 
 ---
@@ -70,6 +74,11 @@
 - Wahrheitsgemäße Kostenaufstellung erstellt
 - Sachliche Formulierungen in allen Dokumenten
 
+**Git-Commits:**
+- `auto-alert-pi`: 2b353b3 - docs(hardware): correct hardware specifications and cost structure
+- `auto-alert-pi-docs`: 3312bd8 - docs(architecture): update hardware architecture documentation
+- `auto-alert-pi-client-doc`: 1f53b17 - docs(client): update customer documentation with correct hardware info
+
 ---
 
 ### 07.10.2025 - Systemerweiterung als notwendig definiert
@@ -89,5 +98,10 @@
 - Notwendigkeit der Systemerweiterung für Projektrealisierung betont
 - Kostenstruktur auf einmalige Kosten beschränkt
 
+**Git-Commits:**
+- `auto-alert-pi`: a953d99 - docs(costs): define system extension as necessary and remove operating costs
+- `auto-alert-pi-docs`: fa1344b - docs(architecture): update system extension as necessary requirement
+- `auto-alert-pi-client-doc`: 531620f - docs(client): clarify necessary system extension and remove operating costs
+
 ---
-**Letzte Aktualisierung:** 07.10.2025 13:24
+**Letzte Aktualisierung:** 07.10.2025 13:26
