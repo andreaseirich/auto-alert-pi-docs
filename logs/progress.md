@@ -104,4 +104,4 @@
 - `auto-alert-pi-client-doc`: 531620f - docs(client): clarify necessary system extension and remove operating costs
 
 ---
-**Letzte Aktualisierung:** 2025-10-07 13:45:24 (Europe/Berlin)
+**Letzte Aktualisierung:** 2025-10-07 14:20:48 (Europe/Berlin)

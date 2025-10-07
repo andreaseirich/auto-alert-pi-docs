@@ -188,4 +188,4 @@
 - Dokumentation finalisieren
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 17:30
+**Letzte Aktualisierung:** 2025-10-07 14:20:48 (Europe/Berlin)
