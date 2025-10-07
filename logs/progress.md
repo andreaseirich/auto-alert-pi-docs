@@ -26,15 +26,15 @@
 
 ---
 
-### 07.10.2025 - Systemarchitektur Code-Grundgerüst erstellt
+### 07.10.2025 - Systemarchitektur Grundstruktur erstellt
 **Status:** 🔄 In Entwicklung  
 **Kategorie:** Code-Entwicklung  
 **Dauer:** 0h 49min  
 **Entwickler:** Andreas Eirich
 
 **Durchgeführte Arbeiten:**
-- Systemarchitektur Code-Grundgerüst dokumentiert
-- Python-Projektstruktur Code-Grundgerüst erstellt
+- Systemarchitektur Grundstruktur dokumentiert
+- Python-Projektstruktur Grundstruktur erstellt
 - Database-Models Grundstruktur erstellt; Tests stehen noch aus
 - Polling-Engine Funktionslogik angelegt, Validierung folgt
 - Logging-System Codebasis steht, Funktionstests ausstehend
@@ -43,10 +43,10 @@
 
 **Technische Details:**
 - 14 neue Dateien erstellt
-- Code-Grundgerüst erstellt (Zeilenanzahl noch nicht validiert)
-- Database-Schema Code-Grundgerüst definiert
-- Asynchrone Architektur Code-Grundgerüst
-- Logging-System Code-Grundgerüst
+- Codebasis erstellt (Zeilenanzahl noch nicht validiert)
+- Database-Schema Grundstruktur definiert
+- Asynchrone Architektur Grundstruktur
+- Logging-System Grundstruktur
 
 **Git-Commits:**
 - `auto-alert-pi`: 905ef34 - feat(core): implement system architecture and core modules
