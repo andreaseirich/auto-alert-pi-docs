@@ -48,7 +48,8 @@
 - Asynchrone Architektur Code-Grundgerüst
 - Logging-System Code-Grundgerüst
 
-**Git-Commit:** 905ef34 - feat(core): implement system architecture and core modules
+**Git-Commit:** 905ef34 - feat(core): implement system architecture and core modules  
+**Hinweis:** Teilweise mit KI-Unterstützung (Cursor) erstellt und manuell geprüft.
 
 ---
 
@@ -89,4 +90,4 @@
 - Kostenstruktur auf einmalige Kosten beschränkt
 
 ---
-**Letzte Aktualisierung:** 07.10.2025 13:01
+**Letzte Aktualisierung:** 07.10.2025 13:24
