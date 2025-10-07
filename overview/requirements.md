@@ -17,8 +17,9 @@
 - **Nachvollziehbarkeit:** Vollständige Dokumentation aller Arbeitsschritte
 
 ### Technische Anforderungen
-- **Hardware:** Raspberry Pi 4 (8GB) - aktives Entwicklungs- und Laufzeitsystem
-- **Systemerweiterung:** 450-500€ (notwendig für Projektrealisierung)
+- **Hardware:** Raspberry Pi 4 (8GB) - aktives Entwicklungs- und Laufzeitsystem für Auto-Alert-Pi
+- **Systemerweiterung:** Raspberry Pi 5 (16GB) - dauerhafte Systemerweiterung meiner Serverinfrastruktur (notwendig)
+- **Kosten:** 450-500€ (einmalige Hardwarekosten, notwendig für Projektrealisierung)
 - **Datenbank:** SQLite (lokal)
 - **API:** willhaben.at Scraping + Telegram Bot
 - **Betriebssystem:** Raspberry Pi OS
@@ -41,9 +42,10 @@
 **Erreichte Ergebnisse:**
 - ✅ Vollständige Projektstruktur
 - ✅ Architektur-Dokumentation
-- ✅ Python-Projektstruktur mit allen Modulen
-- ✅ Konfigurationssystem
-- ✅ Database-Models und Logging-System
+- ✅ Python-Projektstruktur Code-Grundgerüst (ungetestet, nicht funktionsfähig)
+- ✅ Konfigurationssystem Code-Grundgerüst (ungetestet, nicht funktionsfähig)
+- ✅ Database-Models Code-Grundgerüst (ungetestet, nicht funktionsfähig)
+- ✅ Logging-System Code-Grundgerüst (ungetestet, nicht funktionsfähig)
 
 ### Phase 2 – Implementierung & Datenfluss (09.-12.10.2025)
 **Status:** 🔄 Geplant  
@@ -142,4 +144,4 @@
 - Parallelisierung von Entwicklung und Dokumentation
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 17:30
+**Letzte Aktualisierung:** 2025-10-07 14:09:16 (Europe/Berlin)
