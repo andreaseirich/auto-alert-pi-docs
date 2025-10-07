@@ -35,11 +35,11 @@
 **Durchgeführte Arbeiten:**
 - Systemarchitektur Code-Grundgerüst dokumentiert
 - Python-Projektstruktur Code-Grundgerüst erstellt
-- Database-Models Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
-- Polling-Engine Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
-- Logging-System Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
-- Hauptanwendung Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
-- Konfigurationssystem Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
+- Database-Models Grundstruktur erstellt; Tests stehen noch aus
+- Polling-Engine Funktionslogik angelegt, Validierung folgt
+- Logging-System Codebasis steht, Funktionstests ausstehend
+- Hauptanwendung Erster Implementierungsentwurf (noch ungetestet)
+- Konfigurationssystem Vorbereitendes Code-Gerüst erstellt, Integration folgt
 
 **Technische Details:**
 - 14 neue Dateien erstellt
