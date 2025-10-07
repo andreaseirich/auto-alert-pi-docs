@@ -4,6 +4,7 @@
 
 ### 06.10.2025 - Projektinitialisierung
 **Status:** ✅ Abgeschlossen  
+**Kategorie:** Systempflege & Infrastruktur  
 **Dauer:** 2h 30min  
 **Entwickler:** Andreas Eirich
 
@@ -27,17 +28,18 @@
 
 ### 07.10.2025 - Systemarchitektur Code-Grundgerüst erstellt
 **Status:** 🔄 In Entwicklung  
+**Kategorie:** Code-Entwicklung  
 **Dauer:** 0h 49min  
 **Entwickler:** Andreas Eirich
 
 **Durchgeführte Arbeiten:**
 - Systemarchitektur Code-Grundgerüst dokumentiert
 - Python-Projektstruktur Code-Grundgerüst erstellt
-- Database-Models Code-Grundgerüst erstellt (noch ungetestet)
-- Polling-Engine Code-Grundgerüst erstellt (noch ungetestet)
-- Logging-System Code-Grundgerüst erstellt
-- Hauptanwendung Code-Grundgerüst erstellt
-- Konfigurationssystem Code-Grundgerüst erstellt
+- Database-Models Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
+- Polling-Engine Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
+- Logging-System Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
+- Hauptanwendung Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
+- Konfigurationssystem Code-Grundgerüst erstellt (ungetestet, nicht funktionsfähig)
 
 **Technische Details:**
 - 14 neue Dateien erstellt
@@ -52,6 +54,7 @@
 
 ### 07.10.2025 - Hardware-Spezifikationen korrigiert
 **Status:** ✅ Abgeschlossen  
+**Kategorie:** Dokumentation & Planung  
 **Dauer:** 0h 15min  
 **Entwickler:** Andreas Eirich
 
@@ -70,6 +73,7 @@
 
 ### 07.10.2025 - Systemerweiterung als notwendig definiert
 **Status:** ✅ Abgeschlossen  
+**Kategorie:** Dokumentation & Planung  
 **Dauer:** 0h 20min  
 **Entwickler:** Andreas Eirich
 
