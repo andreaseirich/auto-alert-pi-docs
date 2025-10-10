@@ -8,10 +8,12 @@
 - 🏠 **Projektübersicht:** [README.md](README.md)
 - 🧩 **Systemarchitektur:** [overview/architecture.md](overview/architecture.md)
 - 📈 **Fortschritt & Updates:** [logs/progress.md](logs/progress.md)
-- 🕓 **Projektzeitplan:** [logs/timeline.md](logs/timeline.md)
+- 🕓 **Projektzeitplan:** [logs/timeline.md](logs/timeline.md) *(in Entwicklung)*
 - 📞 **Support & Kontakt:** [Support & Wartung](#-support--wartung)
 
 ---
+
+**Letzte Aktualisierung:** 2025-10-10 21:42:07 (Europe/Berlin)
 
 ## 🔧 Entwickler-Dokumentation
 
