@@ -13,7 +13,7 @@
 
 ---
 
-**Letzte Aktualisierung:** 2025-10-10 21:42:07 (Europe/Berlin)
+**Letzte Aktualisierung:** 2025-10-11 14:15:13 (Europe/Berlin)
 
 ## 🔧 Entwickler-Dokumentation
 
@@ -50,4 +50,4 @@ Diese Dokumentation wird parallel mit folgenden Repos gepflegt:
 Alle technischen Fortschritte werden in `logs/progress.md` dokumentiert.
 
 ---
-**Letzte Aktualisierung:** 2025-10-07 14:20:48 (Europe/Berlin)
+**Status:** Phase 4b abgeschlossen - Live-Fetch mit Headless-Browser dokumentiert

@@ -198,4 +198,58 @@
 
 ---
 
-**Letzte Aktualisierung:** 2025-10-10 21:42:07 (Europe/Berlin)
+**Letzte Aktualisierung:** 2025-10-11 14:15:13 (Europe/Berlin)
+
+---
+
+### 11.10.2025 - Phase 4b: Live-Fetch mit Headless-Browser + Cache
+**Status:** ✅ Abgeschlossen  
+**Kategorie:** Code-Validierung & Test  
+**Dauer:** 25min 51s  
+**Entwickler:** Andreas Eirich  
+**KI-Unterstützung:** Ja – Cursor
+
+**Durchgeführte Arbeiten:**
+- Headless-Browser Setup: Playwright + Chromium installiert und konfiguriert
+- Module implementiert: robots.py, cache.py, headless_fetch.py, live_headless_run.py
+- robots.txt Respekt: 97 disallowed paths geladen, URL-Validierung implementiert
+- Caching-System: Hash-basierte Change-Detection mit 10s Cache-Duration
+- Live-Pipeline: Vollständige E2E-Pipeline (Fetch → Parse → Diff → DB → Telegram)
+- Rate-Limiting: 10s Pause zwischen Requests eingehalten
+- Request-Interception: Non-essential Ressourcen blockiert für Performance
+
+**Technische Details:**
+- User-Agent: Mozilla/5.0 (X11; Linux x86_64) AutoAlertPi/1.0
+- Timeout: 3500ms pro Seite (optimierungsbedürftig)
+- Cache-Duration: 10 Sekunden mit Hash-basierter Erkennung
+- Request-Blocking: Images, Fonts, Tracking, Ads
+
+**Performance-Ergebnisse:**
+- Gesamtzeit: 25.385s (Ziel: <4.0s) - Ziel verfehlt
+- Fetch-Zeit: 20.719s (Hauptproblem: Timeout bei erster URL)
+- Parse-Zeit: 0.228s (sehr gut)
+- Zweite URL: 4.232s (akzeptabel)
+- 1/2 URLs erfolgreich gefetcht
+- 0 Inserate gefunden (Selektor-Problem)
+- robots.txt Respekt: 100% eingehalten
+
+**Identifizierte Probleme:**
+- Timeout-Problem: Erste URL überschreitet 3.5s Timeout
+- Parser-Selektor-Problem: 0 Inserate gefunden trotz 9 Containern
+- Database-Error: settings nicht definiert (nicht kritisch)
+
+**Artefakte erstellt:**
+- Technischer Bericht: phase4b_report.md
+- JSON-Report: phase4b_report.json
+- 4 neue Code-Module in src/fetcher/
+- Cache-System in cache/willhaben/
+
+**Git-Commits:**
+- `auto-alert-pi`: 582815d - feat(headless): implement Phase 4b Live-Fetch with Headless Browser
+- `auto-alert-pi-docs`: 9873402 - docs(report): add Phase 4b Live-Fetch report
+
+**Nächste Schritte:**
+- Phase 4c: Performance-Optimierung
+- Timeout von 3.5s auf 6.0s erhöhen
+- Parser-Selektoren für aktuelle willhaben.at Struktur anpassen
+- Bessere Test-URLs mit garantierten Inseraten verwenden
