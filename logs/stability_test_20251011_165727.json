@@ -1,0 +1,129 @@
+{
+  "summary": {
+    "total_tests": 10,
+    "passed_tests": 6,
+    "failed_tests": 4,
+    "success_rate": 60.0,
+    "total_duration": 51.04643487930298,
+    "memory_usage_mb": -323.3359375,
+    "cpu_usage_percent": -25.700000000000003
+  },
+  "test_results": [
+    {
+      "test_name": "cache_behavior",
+      "success": true,
+      "duration": 15.688721418380737,
+      "details": {
+        "cache_hits": 1,
+        "cache_misses": 1,
+        "ttl_tests": [],
+        "cold_cache_duration": 0.001010894775390625,
+        "warm_cache_duration": 0.0007822513580322266,
+        "ttl_duration": 2.2977678775787354,
+        "ttl_expired": true
+      },
+      "error": null
+    },
+    {
+      "test_name": "browser_reuse",
+      "success": true,
+      "duration": 5.713916540145874,
+      "details": {
+        "browser_restarts": 1,
+        "reuse_success": 3
+      },
+      "error": null
+    },
+    {
+      "test_name": "selector_robustness",
+      "success": false,
+      "duration": 2.616082191467285,
+      "details": {
+        "urls_tested": 3,
+        "selectors_found": 0,
+        "pagination_tests": 2
+      },
+      "error": null
+    },
+    {
+      "test_name": "duplicate_detection",
+      "success": false,
+      "duration": 18.77246069908142,
+      "details": {
+        "runs": 0,
+        "duplicates_detected": 0,
+        "new_inserate": 0
+      },
+      "error": null
+    },
+    {
+      "test_name": "price_filter_logic",
+      "success": true,
+      "duration": 2.0742416381835938e-05,
+      "details": {
+        "price_tests": 4,
+        "edge_cases": 1,
+        "filtered_count": 4,
+        "expected_count": 4
+      },
+      "error": null
+    },
+    {
+      "test_name": "fault_injection",
+      "success": true,
+      "duration": 2.6388566493988037,
+      "details": {
+        "faults_injected": 1,
+        "recoveries": 2
+      },
+      "error": null
+    },
+    {
+      "test_name": "data_persistence",
+      "success": false,
+      "duration": 0.032318830490112305,
+      "details": {
+        "inserts": 0,
+        "duplicates_prevented": 0
+      },
+      "error": "name 'settings' is not defined"
+    },
+    {
+      "test_name": "telegram_dry_run",
+      "success": true,
+      "duration": 0.3029649257659912,
+      "details": {
+        "messages_sent": 3,
+        "batch_tests": 1
+      },
+      "error": null
+    },
+    {
+      "test_name": "resource_monitoring",
+      "success": true,
+      "duration": 2.732598304748535,
+      "details": {
+        "memory_usage": 100204544,
+        "cpu_usage": 8.5,
+        "open_files": 0,
+        "browser_processes": 0
+      },
+      "error": null
+    },
+    {
+      "test_name": "compliance_checks",
+      "success": false,
+      "duration": 2.5471432209014893,
+      "details": {
+        "robots_txt_checked": true,
+        "rate_limits_respected": false,
+        "live_mode_detected": true
+      },
+      "error": null
+    }
+  ],
+  "recommendations": [
+    "Address 4 failed tests",
+    "Improve robots.txt compliance"
+  ]
+}
