@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "total_runs": 2,
+    "successful_runs": 0,
+    "success_rate_percent": 0.0,
+    "avg_time_seconds": 11.714,
+    "avg_fetch_success_rate": 100.0,
+    "total_inserate_found": 0,
+    "total_new_inserate": 0,
+    "target_achieved": false,
+    "fetch_success_target_achieved": true,
+    "inserate_target_achieved": false
+  },
+  "compliance": {
+    "rate_limiting_active": true,
+    "database_working": true,
+    "parser_working": false,
+    "robots_txt_respected": true,
+    "live_mode_detected": true
+  },
+  "detailed_results": [
+    {
+      "run": 1,
+      "total_time": 11.457454442977905,
+      "fetch_success": 2,
+      "fetch_total": 2,
+      "inserate_found": 0,
+      "new_inserate": 0,
+      "notifications": 0,
+      "success_rate": 100.0,
+      "target_achieved": false
+    },
+    {
+      "run": 2,
+      "total_time": 11.97077226638794,
+      "fetch_success": 2,
+      "fetch_total": 2,
+      "inserate_found": 0,
+      "new_inserate": 0,
+      "notifications": 0,
+      "success_rate": 100.0,
+      "target_achieved": false
+    }
+  ],
+  "recommendations": [
+    "Performance optimization needed - average time exceeds 4s target",
+    "No inserate found - parser selectors may need further updates",
+    "Parser not working - check selectors and content structure"
+  ]
+}
