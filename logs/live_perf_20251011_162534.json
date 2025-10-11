@@ -1,0 +1,26 @@
+{
+  "timestamp": "20251011_162534",
+  "summary": {
+    "successful_fetches": 2,
+    "total_fetches": 2,
+    "success_rate": 100.0,
+    "average_time": 0.852,
+    "target_achieved": true
+  },
+  "detailed_results": [
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/",
+      "duration": 1.703,
+      "success": true,
+      "content_length": 429736,
+      "target_achieved": true
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/auto?PRICE_FROM=0&PRICE_TO=50000",
+      "duration": 0.0,
+      "success": true,
+      "content_length": 462,
+      "target_achieved": true
+    }
+  ]
+}
