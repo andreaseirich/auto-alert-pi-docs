@@ -1,0 +1,469 @@
+{
+  "timestamp": "2025-10-11T18:27:59.811716",
+  "urls_tested": [
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/",
+      "success": true,
+      "fetch_time": 0.393939,
+      "parse_time": 0.110926,
+      "total_time": 1.557408,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "dom_analysis": {
+        "total_elements": 876,
+        "inserat_related_elements": {
+          "inserat": 0,
+          "listing": 0,
+          "item": 0,
+          "product": 0,
+          "ad": 5,
+          "offer": 0,
+          "card": 0
+        },
+        "data_attributes": {
+          "data-testid": 209,
+          "data-cy": 0
+        },
+        "class_patterns": {
+          "Input__InputAddon-sc-18xaepr-2": 3,
+          "react-top-loading-bar-container": 1,
+          "react-top-loading-bar": 1
+        },
+        "id_patterns": {}
+      },
+      "containers": [],
+      "selector_effectiveness": {
+        "title_selectors": {
+          "h3": {
+            "count": 2,
+            "sample_text": [
+              "Gebrauchtwagen und Neuwagen finden",
+              "Beliebte Automarken"
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Top Gebrauchtwagen"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "price_selectors": {
+          "[data-testid*=\"price\"]": {
+            "count": 31,
+            "sample_text": [
+              "€Beliebig5001.0001.5002.0002.5003.0004.0005.0006.0",
+              "",
+              "Beliebig5001.0001.5002.0002.5003.0004.0005.0006.00"
+            ]
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location_selectors": {
+          "[data-testid*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 2,
+            "sample_text": [
+              "Marktplatz Shoplösungen",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/audi/",
+      "success": true,
+      "fetch_time": 0.239773,
+      "parse_time": 0.08997,
+      "total_time": 1.169897,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "dom_analysis": {
+        "total_elements": 718,
+        "inserat_related_elements": {
+          "inserat": 0,
+          "listing": 0,
+          "item": 9,
+          "product": 0,
+          "ad": 2,
+          "offer": 0,
+          "card": 1
+        },
+        "data_attributes": {
+          "data-testid": 156,
+          "data-cy": 0
+        },
+        "class_patterns": {
+          "Pagination__PaginationItemButton-sc-zvrf30-2": 9,
+          "react-top-loading-bar-container": 1,
+          "react-top-loading-bar": 1,
+          "Card-sc-nhpl83-0": 1
+        },
+        "id_patterns": {}
+      },
+      "containers": [
+        {
+          "type": "data-testid",
+          "selector": "[data-testid*=\"item\"]",
+          "count": 4,
+          "sample_attributes": [
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-0"
+            },
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-1"
+            },
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-2"
+            }
+          ]
+        }
+      ],
+      "selector_effectiveness": {
+        "title_selectors": {
+          "h3": {
+            "count": 6,
+            "sample_text": [
+              "TOP-ANZEIGEN",
+              "Audi TT 3.2 *Dieser Preis nur bis 10.8*",
+              "Audi A5"
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Marke & Modell"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 1,
+            "sample_text": [
+              "15.906 Audi Gebrauchtwagen"
+            ]
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "price_selectors": {
+          "[data-testid*=\"price\"]": {
+            "count": 5,
+            "sample_text": [
+              "€ 11.990",
+              "€ 15.000",
+              "€ 12.900"
+            ]
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location_selectors": {
+          "[data-testid*=\"location\"]": {
+            "count": 5,
+            "sample_text": [
+              "4663 Laakirchen",
+              "2620 Neunkirchen",
+              "4331 Baumgarten"
+            ]
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 5,
+            "sample_text": [
+              "",
+              "",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/bmw/",
+      "success": true,
+      "fetch_time": 0.24387,
+      "parse_time": 0.079654,
+      "total_time": 1.147983,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "dom_analysis": {
+        "total_elements": 718,
+        "inserat_related_elements": {
+          "inserat": 0,
+          "listing": 0,
+          "item": 9,
+          "product": 0,
+          "ad": 2,
+          "offer": 0,
+          "card": 1
+        },
+        "data_attributes": {
+          "data-testid": 156,
+          "data-cy": 0
+        },
+        "class_patterns": {
+          "Pagination__PaginationItemButton-sc-zvrf30-2": 9,
+          "react-top-loading-bar-container": 1,
+          "react-top-loading-bar": 1,
+          "Card-sc-nhpl83-0": 1
+        },
+        "id_patterns": {}
+      },
+      "containers": [
+        {
+          "type": "data-testid",
+          "selector": "[data-testid*=\"item\"]",
+          "count": 4,
+          "sample_attributes": [
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-0"
+            },
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-1"
+            },
+            {
+              "class": [
+                "sc-3961ba4a-0",
+                "czSjrK"
+              ],
+              "data-testid": "breadcrumbs-item-level-2"
+            }
+          ]
+        }
+      ],
+      "selector_effectiveness": {
+        "title_selectors": {
+          "h3": {
+            "count": 6,
+            "sample_text": [
+              "TOP-ANZEIGEN",
+              "BMW 4er-Reihe 3L",
+              "BMW X5 xDrive30d M Paket , LED ,AHK ,Head-Up , 21 "
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Marke & Modell"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 1,
+            "sample_text": [
+              "18.132 BMW Gebrauchtwagen"
+            ]
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "price_selectors": {
+          "[data-testid*=\"price\"]": {
+            "count": 5,
+            "sample_text": [
+              "€ 25.000",
+              "€ 58.880",
+              "€ 5.900"
+            ]
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location_selectors": {
+          "[data-testid*=\"location\"]": {
+            "count": 5,
+            "sample_text": [
+              "1210 Wien, 21. Bezirk, Floridsdorf",
+              "4600 Wels",
+              "3500 Krems an der Donau"
+            ]
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 5,
+            "sample_text": [
+              "",
+              "",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        }
+      }
+    }
+  ],
+  "dom_analysis": {},
+  "inserat_containers": [],
+  "selector_effectiveness": {},
+  "performance_metrics": {}
+}

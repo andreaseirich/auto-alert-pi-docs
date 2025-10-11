@@ -1,0 +1,802 @@
+{
+  "timestamp": "2025-10-11T18:30:20.593014",
+  "urls_tested": [
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/",
+      "success": true,
+      "fetch_time": 0.437746,
+      "parse_time": 0.163867,
+      "total_time": 1.494585,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "selector_effectiveness": {
+        "container": {
+          "[data-testid*=\"item\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "article": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"result\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"item\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"ad\"]": {
+            "count": 2,
+            "sample_text": [
+              "",
+              ""
+            ]
+          }
+        },
+        "title": {
+          "h3": {
+            "count": 2,
+            "sample_text": [
+              "Gebrauchtwagen und Neuwagen finden",
+              "Beliebte Automarken"
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Top Gebrauchtwagen"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 146,
+            "sample_text": [
+              "Nachrichten",
+              "Neue Anzeige aufgeben",
+              "Marktplatz13.191.694"
+            ]
+          }
+        },
+        "price": {
+          "[data-testid*=\"price\"]": {
+            "count": 31,
+            "sample_text": [
+              "€Beliebig5001.0001.5002.0002.5003.0004.0005.0006.0",
+              "",
+              "Beliebig5001.0001.5002.0002.5003.0004.0005.0006.00"
+            ]
+          },
+          "[data-testid*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location": {
+          "[data-testid*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 2,
+            "sample_text": [
+              "Marktplatz Shoplösungen",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "url": {
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 146,
+            "sample_text": [
+              "Nachrichten",
+              "Neue Anzeige aufgeben",
+              "Marktplatz13.191.694"
+            ]
+          },
+          "a[href*=\"willhaben.at\"]": {
+            "count": 13,
+            "sample_text": [
+              "Jobs bei willhaben",
+              "willhaben Blog",
+              "Tech Blog"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/audi/",
+      "success": true,
+      "fetch_time": 0.310476,
+      "parse_time": 0.136687,
+      "total_time": 1.227396,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "selector_effectiveness": {
+        "container": {
+          "[data-testid*=\"item\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          },
+          "[data-testid*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "article": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"result\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"item\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"ad\"]": {
+            "count": 2,
+            "sample_text": [
+              "",
+              ""
+            ]
+          }
+        },
+        "title": {
+          "h3": {
+            "count": 6,
+            "sample_text": [
+              "TOP-ANZEIGEN",
+              "Audi A3 SB Ambition 1,6 TDI DPF",
+              "Audi TT 3.2 *Dieser Preis nur bis 10.8*"
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Marke & Modell"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 1,
+            "sample_text": [
+              "15.907 Audi Gebrauchtwagen"
+            ]
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          }
+        },
+        "price": {
+          "[data-testid*=\"price\"]": {
+            "count": 5,
+            "sample_text": [
+              "€ 9.999",
+              "€ 11.990",
+              "€ 15.000"
+            ]
+          },
+          "[data-testid*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location": {
+          "[data-testid*=\"location\"]": {
+            "count": 5,
+            "sample_text": [
+              "4812 Pinsdorf",
+              "4663 Laakirchen",
+              "2620 Neunkirchen"
+            ]
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 5,
+            "sample_text": [
+              "",
+              "",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "url": {
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          },
+          "a[href*=\"willhaben.at\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/bmw/",
+      "success": true,
+      "fetch_time": 0.287391,
+      "parse_time": 0.107535,
+      "total_time": 1.249599,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "selector_effectiveness": {
+        "container": {
+          "[data-testid*=\"item\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          },
+          "[data-testid*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "article": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"result\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"item\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"ad\"]": {
+            "count": 2,
+            "sample_text": [
+              "",
+              ""
+            ]
+          }
+        },
+        "title": {
+          "h3": {
+            "count": 6,
+            "sample_text": [
+              "TOP-ANZEIGEN",
+              "BMW 4er-Reihe 3L",
+              "BMW X5 xDrive30d M Paket , LED ,AHK ,Head-Up , 21 "
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Marke & Modell"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 1,
+            "sample_text": [
+              "18.131 BMW Gebrauchtwagen"
+            ]
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          }
+        },
+        "price": {
+          "[data-testid*=\"price\"]": {
+            "count": 5,
+            "sample_text": [
+              "€ 25.000",
+              "€ 58.880",
+              "€ 5.900"
+            ]
+          },
+          "[data-testid*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location": {
+          "[data-testid*=\"location\"]": {
+            "count": 5,
+            "sample_text": [
+              "1210 Wien, 21. Bezirk, Floridsdorf",
+              "4600 Wels",
+              "3500 Krems an der Donau"
+            ]
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 5,
+            "sample_text": [
+              "",
+              "",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "url": {
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          },
+          "a[href*=\"willhaben.at\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/mercedes-benz/",
+      "success": true,
+      "fetch_time": 0.266991,
+      "parse_time": 0.084635,
+      "total_time": 1.08472,
+      "inserate_found": 0,
+      "inserate_sample": [],
+      "selector_effectiveness": {
+        "container": {
+          "[data-testid*=\"item\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          },
+          "[data-testid*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[data-testid*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "article": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"result\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"inserat\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"listing\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"item\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"card\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "div[class*=\"ad\"]": {
+            "count": 2,
+            "sample_text": [
+              "",
+              ""
+            ]
+          }
+        },
+        "title": {
+          "h3": {
+            "count": 6,
+            "sample_text": [
+              "TOP-ANZEIGEN",
+              "Mercedes-Benz CLK-Klasse CLK 500 Avantgarde Aut.Sp",
+              "Mercedes-Benz GL-Klasse GL 350 4 Matic, 7 Sitzer ,"
+            ]
+          },
+          "h2": {
+            "count": 1,
+            "sample_text": [
+              "Marke & Modell"
+            ]
+          },
+          "[data-testid*=\"title\"]": {
+            "count": 1,
+            "sample_text": [
+              "12.741 Mercedes-Benz Gebrauchtwagen"
+            ]
+          },
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".title": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"title\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"heading\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          }
+        },
+        "price": {
+          "[data-testid*=\"price\"]": {
+            "count": 5,
+            "sample_text": [
+              "€ 5.999",
+              "€ 33.990",
+              "€ 24.880"
+            ]
+          },
+          "[data-testid*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          ".price": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"price\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"cost\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"amount\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"value\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "location": {
+          "[data-testid*=\"location\"]": {
+            "count": 5,
+            "sample_text": [
+              "3304 Hart",
+              "4600 Wels",
+              "4600 Wels"
+            ]
+          },
+          "[data-testid*=\"place\"]": {
+            "count": 5,
+            "sample_text": [
+              "",
+              "",
+              ""
+            ]
+          },
+          ".location": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"location\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"place\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "[class*=\"address\"]": {
+            "count": 0,
+            "sample_text": []
+          }
+        },
+        "url": {
+          "a[href*=\"/inserat/\"]": {
+            "count": 0,
+            "sample_text": []
+          },
+          "a[href*=\"/iad/\"]": {
+            "count": 29,
+            "sample_text": [
+              "Nachrichten",
+              "Einloggen",
+              "Registrieren"
+            ]
+          },
+          "a[href*=\"willhaben.at\"]": {
+            "count": 4,
+            "sample_text": [
+              "Startseite",
+              "Auto & Motor",
+              "Gebrauchtwagen"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/volkswagen/",
+      "success": false,
+      "error": "404 Client Error: Not Found for url: https://www.willhaben.at/iad/gebrauchtwagen/auto/volkswagen/",
+      "total_time": 0.088397
+    }
+  ],
+  "parser_performance": {},
+  "selector_effectiveness": {},
+  "inserate_samples": []
+}

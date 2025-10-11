@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-10-11T18:26:28.834080",
+  "urls_tested": [
+    {
+      "error": "Failed to fetch HTML",
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/"
+    },
+    {
+      "error": "Failed to fetch HTML",
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/audi/"
+    },
+    {
+      "error": "Failed to fetch HTML",
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/bmw/"
+    }
+  ],
+  "dom_analysis": {},
+  "inserat_containers": [],
+  "selector_effectiveness": {},
+  "performance_metrics": {}
+}

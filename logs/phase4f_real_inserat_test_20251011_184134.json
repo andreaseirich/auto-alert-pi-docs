@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sportback-automatik-mmi-tempomat-spurhalte-kamera-741364030/",
+    "success": true,
+    "fetch_time": 0.426162,
+    "parse_time": 0.120198,
+    "total_time": 0.898167,
+    "inserat_data": {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sportback-automatik-mmi-tempomat-spurhalte-kamera-741364030/",
+      "title": "Audi A5 Sportback Automatik MMI+ Tempomat Spurhalte Kamera Limousine",
+      "price": "741364030 €",
+      "location": null,
+      "description": null,
+      "image_url": "https://www.willhaben.at/bbx-search/_next/static/assets/logo.f8cb483ef68cd335.svg",
+      "extraction_method": {
+        "title": "h1",
+        "price": "regex",
+        "image": "img[src]"
+      }
+    },
+    "performance_target_met": true
+  },
+  {
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-stepway-style-tce-90-automatik-772904460/",
+    "success": true,
+    "fetch_time": 0.196132,
+    "parse_time": 0.131222,
+    "total_time": 0.73468,
+    "inserat_data": {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-stepway-style-tce-90-automatik-772904460/",
+      "title": "Dacia Sandero Stepway Style TCe 90 *AUTOMATIK* Limousine",
+      "price": "772904460 €",
+      "location": null,
+      "description": null,
+      "image_url": "https://www.willhaben.at/bbx-search/_next/static/assets/logo.f8cb483ef68cd335.svg",
+      "extraction_method": {
+        "title": "h1",
+        "price": "regex",
+        "image": "img[src]"
+      }
+    },
+    "performance_target_met": true
+  },
+  {
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-combi-style-tdi-dsg-773158960/",
+    "success": true,
+    "fetch_time": 0.157132,
+    "parse_time": 0.142588,
+    "total_time": 0.747123,
+    "inserat_data": {
+      "url": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-combi-style-tdi-dsg-773158960/",
+      "title": "Skoda Superb Combi Style TDI DSG Kombi / Family Van",
+      "price": "773158960 €",
+      "location": null,
+      "description": null,
+      "image_url": "https://www.willhaben.at/bbx-search/_next/static/assets/logo.f8cb483ef68cd335.svg",
+      "extraction_method": {
+        "title": "h1",
+        "price": "regex",
+        "image": "img[src]"
+      }
+    },
+    "performance_target_met": true
+  }
+]

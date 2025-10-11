@@ -1,0 +1,496 @@
+[
+  {
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/audi/",
+    "html_length": 882093,
+    "total_elements": 711,
+    "container_analysis": {
+      "[data-testid*=\"item\"]": {
+        "count": 4,
+        "sample_html": "<a class=\"sc-3961ba4a-0 czSjrK\" data-testid=\"breadcrumbs-item-level-0\" href=\"https://www.willhaben.at/iad\"><p class=\"Text-sc-10o2fdq-0 gLElGh\">Startseite</p></a>"
+      },
+      "div[class*=\"ad\"]": {
+        "count": 2,
+        "sample_html": "<div class=\"react-top-loading-bar-container\" style=\"position:fixed;top:0;left:0;height:2px;background:transparent;z-index:99999999999;width:100%\"><div class=\"react-top-loading-bar\" style=\"height:100%;background:red;transition:all 500ms ease;width:0%\"><div style=\"box-shadow:0 0 10px red, 0 0 10px red;width:5%;opacity:1;position:absolute;height:100%;transition:all 500ms ease;transform:rotate(2deg) translate(0px, -2px);left:-10rem\"></div></div></div>"
+      }
+    },
+    "sample_containers": [
+      {
+        "index": 0,
+        "tag": "a",
+        "classes": [
+          "sc-3961ba4a-0",
+          "czSjrK"
+        ],
+        "data_attributes": {
+          "data-testid": "breadcrumbs-item-level-0"
+        },
+        "text_content": "Startseite",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 1,
+        "tag": "a",
+        "classes": [
+          "sc-3961ba4a-0",
+          "czSjrK"
+        ],
+        "data_attributes": {
+          "data-testid": "breadcrumbs-item-level-1"
+        },
+        "text_content": "Auto & Motor",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 2,
+        "tag": "div",
+        "classes": [
+          "react-top-loading-bar-container"
+        ],
+        "data_attributes": {},
+        "text_content": "",
+        "child_elements": 2,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 3,
+        "tag": "div",
+        "classes": [
+          "react-top-loading-bar"
+        ],
+        "data_attributes": {},
+        "text_content": "",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      }
+    ],
+    "title_analysis": {
+      "h1": [
+        {
+          "text": "15.907 Audi Gebrauchtwagen",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cDYmwQ"
+          ],
+          "data_attrs": {
+            "data-testid": "result-list-title"
+          }
+        }
+      ],
+      "h2": [
+        {
+          "text": "Marke & Modell",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "jLhbDo",
+            "sc-f9ec24d9-0",
+            "kSHRfp"
+          ],
+          "data_attrs": {
+            "data-testid": "navigator-group-Marke&Modell"
+          }
+        }
+      ],
+      "h3": [
+        {
+          "text": "TOP-ANZEIGEN",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cgUhjO"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "Audi TT Roadster 2,0 T FSI",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "Audi A3 SB Ambition 1,6 TDI DPF",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "Audi TT 3.2 *Dieser Preis nur bis 10.8*",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "Audi A5",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "Audi A6 Avant 40 TDI sport S-tronic",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    },
+    "price_analysis": {
+      "div": [
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "gPlcSC"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridContainer-sc-dtcl2s-0",
+            "elDsVH",
+            "leweJl",
+            "sc-de9a02fa-1",
+            "fKRtVV"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridArea-sc-dtcl2s-1",
+            "ccOljQ",
+            "jhvhh"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "sc-de9a02fa-2",
+            "byTxTF"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    },
+    "location_analysis": {
+      "div": [
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "gPlcSC"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridContainer-sc-dtcl2s-0",
+            "elDsVH",
+            "leweJl",
+            "sc-de9a02fa-1",
+            "fKRtVV"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridArea-sc-dtcl2s-1",
+            "ccOljQ",
+            "jhvhh"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.193.811I",
+          "classes": [
+            "sc-de9a02fa-2",
+            "byTxTF"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.willhaben.at/iad/gebrauchtwagen/auto/bmw/",
+    "html_length": 894170,
+    "total_elements": 713,
+    "container_analysis": {
+      "[data-testid*=\"item\"]": {
+        "count": 4,
+        "sample_html": "<a class=\"sc-3961ba4a-0 czSjrK\" data-testid=\"breadcrumbs-item-level-0\" href=\"https://www.willhaben.at/iad\"><p class=\"Text-sc-10o2fdq-0 gLElGh\">Startseite</p></a>"
+      },
+      "div[class*=\"ad\"]": {
+        "count": 2,
+        "sample_html": "<div class=\"react-top-loading-bar-container\" style=\"position:fixed;top:0;left:0;height:2px;background:transparent;z-index:99999999999;width:100%\"><div class=\"react-top-loading-bar\" style=\"height:100%;background:red;transition:all 500ms ease;width:0%\"><div style=\"box-shadow:0 0 10px red, 0 0 10px red;width:5%;opacity:1;position:absolute;height:100%;transition:all 500ms ease;transform:rotate(2deg) translate(0px, -2px);left:-10rem\"></div></div></div>"
+      }
+    },
+    "sample_containers": [
+      {
+        "index": 0,
+        "tag": "a",
+        "classes": [
+          "sc-3961ba4a-0",
+          "czSjrK"
+        ],
+        "data_attributes": {
+          "data-testid": "breadcrumbs-item-level-0"
+        },
+        "text_content": "Startseite",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 1,
+        "tag": "a",
+        "classes": [
+          "sc-3961ba4a-0",
+          "czSjrK"
+        ],
+        "data_attributes": {
+          "data-testid": "breadcrumbs-item-level-1"
+        },
+        "text_content": "Auto & Motor",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 2,
+        "tag": "div",
+        "classes": [
+          "react-top-loading-bar-container"
+        ],
+        "data_attributes": {},
+        "text_content": "",
+        "child_elements": 2,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      },
+      {
+        "index": 3,
+        "tag": "div",
+        "classes": [
+          "react-top-loading-bar"
+        ],
+        "data_attributes": {},
+        "text_content": "",
+        "child_elements": 1,
+        "title_elements": [],
+        "price_elements": [],
+        "location_elements": []
+      }
+    ],
+    "title_analysis": {
+      "h1": [
+        {
+          "text": "18.130 BMW Gebrauchtwagen",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cDYmwQ"
+          ],
+          "data_attrs": {
+            "data-testid": "result-list-title"
+          }
+        }
+      ],
+      "h2": [
+        {
+          "text": "Marke & Modell",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "jLhbDo",
+            "sc-f9ec24d9-0",
+            "kSHRfp"
+          ],
+          "data_attrs": {
+            "data-testid": "navigator-group-Marke&Modell"
+          }
+        }
+      ],
+      "h3": [
+        {
+          "text": "TOP-ANZEIGEN",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cgUhjO"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "BMW X1 xDrive23d 48V *NeuwagenZustand*TopAngebot*Er...",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "BMW 4er-Reihe 3L",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "BMW X5 xDrive30d M Paket , LED ,AHK ,Head-Up , 21 Zoll",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "BMW 5er-Reihe 520d f11 xdrive",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "BMW 1er-Reihe",
+          "classes": [
+            "Text-sc-10o2fdq-0",
+            "cEtlGW"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    },
+    "price_analysis": {
+      "div": [
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "gPlcSC"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridContainer-sc-dtcl2s-0",
+            "elDsVH",
+            "leweJl",
+            "sc-de9a02fa-1",
+            "fKRtVV"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridArea-sc-dtcl2s-1",
+            "ccOljQ",
+            "jhvhh"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "sc-de9a02fa-2",
+            "byTxTF"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    },
+    "location_analysis": {
+      "div": [
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "gPlcSC"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridContainer-sc-dtcl2s-0",
+            "elDsVH",
+            "leweJl",
+            "sc-de9a02fa-1",
+            "fKRtVV"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "Box-sc-wfmb7k-0",
+            "Grid__GridArea-sc-dtcl2s-1",
+            "ccOljQ",
+            "jhvhh"
+          ],
+          "data_attrs": {}
+        },
+        {
+          "text": "NachrichtenEinloggen|RegistrierenEinloggenNeue Anzeige aufgebenFarbmodus wählenMarktplatz13.194.183I",
+          "classes": [
+            "sc-de9a02fa-2",
+            "byTxTF"
+          ],
+          "data_attrs": {}
+        }
+      ]
+    }
+  }
+]
